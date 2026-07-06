@@ -4,6 +4,27 @@
 
 ---
 
+## 🎮 Play the Live Demo
+
+**👉 [Click here to play Dark Fortune — Jackpot Edition](https://dinkotrendafilov.github.io/Dark-Fortune-Jackpot-Edition/dark_fortune_jackpot_edition.html)**
+
+No installation needed. Just click and play!
+
+---
+
+## 📁 Project Structure
+
+
+**Features:**
+- Animated 5×4 reel grid with smooth spin animation
+- Dynamic paytable — updates in real-time with bet changes
+- Prioritized win line visualization (5-of-5 > 4-of-5 > 3-of-5 > 2-of-5)
+- Win line color coding: gold (5-of-5), blue (4-of-5), white (other)
+- Synthesized Web Audio sound hierarchy
+- Progressive jackpot pool counter with 3.5-minute triumphant melody on trigger
+- Auto-spin with melody stop on next spin
+- Bet per line: 1–1,000 credits, Active lines: 1–20
+
 ## 📌 Project Overview
 
 | Parameter | Value |
@@ -103,21 +124,6 @@ The jackpot triggers randomly at **1 in 5,000** per spin — the player never kn
 **Key insight:** Players who survive 25,000 spins average **19,341 credits** — nearly **double** their starting capital of 10,000. This is the characteristic jackpot effect: most players lose gradually, while jackpot winners achieve exceptional returns.
 
 ---
-
-## 🎮 Playable Demo
-
-Open `dark_fortune_jackpot_edition.html` directly in any modern browser — no installation required.
-
-**Features:**
-- Animated 5×4 reel grid with smooth spin animation
-- Dynamic paytable — updates in real-time with bet changes
-- Prioritized win line visualization (5-of-5 > 4-of-5 > 3-of-5 > 2-of-5)
-- Win line color coding: gold (5-of-5), blue (4-of-5), white (other)
-- Synthesized Web Audio sound hierarchy
-- Progressive jackpot pool counter with 3.5-minute triumphant melody on trigger
-- Auto-spin with melody stop on next spin
-- Bet per line: 1–1,000 credits, Active lines: 1–20
-
 ---
 
 ## 🛠️ Technical Stack
